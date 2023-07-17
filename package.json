@@ -1,5 +1,5 @@
 {
-    "name": "@alenaksu/json-viewer",
+    "name": "@deepgram/json-viewer",
     "version": "2.0.1",
     "main": "dist/json-viewer.js",
     "module": "dist/json-viewer.js",
